@@ -13,8 +13,8 @@
 
 // Constantes para el wifi:
 
-const char SSID[] = "RoloWiFi";
-const char PASS[] = "12345678";
+const char SSID[] = "RoloWiFi"; //Nombre de la red
+const char PASS[] = "12345678"; //Contraseña
 const char* mqtt_server = "test.mosquitto.org";
 
 WiFiClient espClient;
