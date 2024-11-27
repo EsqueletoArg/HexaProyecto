@@ -12,3 +12,5 @@ Para hacerlo funcionar correctamente, hay que descargar ciertas dependencias en 
 
 # Hardware (PCB)
 El hardware se encuentra en los archivos III.pcb, III.sch y III.pro
+
+El archivo III.pcb contiene el diseño de la PCB. La matriz de botones conlleva un diodo para cada botón para evitar 
