@@ -8,5 +8,7 @@ Programado para ser subido en un ESP32, este proyecto cuenta con un algoritmo qu
 
 En cuanto al servidor, se encuentra alojado en un archivo .js. Para hacerlo funcionar, necesitamos descargar los programas Node.js y Mosquitto, ambos son descargables de manera gratuita en su respectiva página oficial. 
 
+Para hacerlo funcionar correctamente, hay que descargar ciertas dependencias en la carpeta donde se encuentre el servidor. Estas dependencias, sin embargo, ya estan alojadas junto al servidor, pero no funcionaran sin Nodejs y/o Mosquitto
+
 # Hardware (PCB)
 El hardware se encuentra en los archivos III.pcb, III.sch y III.pro
